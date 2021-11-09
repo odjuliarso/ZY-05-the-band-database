@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">The Band Database</string>
+    <string name="details">Details</string>
+    <string name="messages_header">Messages</string>
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+    <string name="sync_header">Sync</string>
+    <string name="sync_title">Sync email preiodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="attachment_summary_on">Automatically download attachments</string>
+
+    <string-array name="bands">
+        <item>The Beatles</item>
+        <item>Nirvana</item>
+        <item>U2</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>An English rock band that formed in Liverpool in 1960.</item>
+        <item>An American rock band that formed in Washington in 1987.</item>
+        <item>An Irish rock band from Dublin that formed in 1976.</item>
+    </string-array>
+</resources>
